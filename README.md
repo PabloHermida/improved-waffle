@@ -8,6 +8,6 @@ La presente [infografía](https://histografias.com/infografia-historia-netflix.h
 * Coherencia en la línea temporal
 * Buen diseño
 
-Puntos a **mejorar**:
+### Puntos a **mejorar**:
 * Utilizar datos al comienzo de la infografía
 * Tal vez una infografía más escueta pero más directa
